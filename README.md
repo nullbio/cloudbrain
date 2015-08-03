@@ -15,4 +15,6 @@ Useful to notice trends in world events from news sources, changes in patterns f
 
 # Other ideas
 
-Strengthened words can be linked to form syntactically accurate sentences similar to a neural network. Words may be able to link to other words in some fashion to notice association trends. 
+* Strengthened words can be linked to form syntactically accurate sentences similar to a neural network. 
+* Words may be able to link to other words in some fashion to notice association trends. 
+* Display a "sentiment" indicator that shows a scale of sentiment from positive to negative based off word types. May not work appropriately unless sources can be analyzed contextually. 
