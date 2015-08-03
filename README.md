@@ -18,3 +18,4 @@ Useful to notice trends in world events from news sources, changes in patterns f
 * Strengthened words can be linked to form syntactically accurate sentences similar to a neural network. 
 * Words may be able to link to other words in some fashion to notice association trends. 
 * Display a "sentiment" indicator that shows a scale of sentiment from positive to negative based off word types. May not work appropriately unless sources can be analyzed contextually. 
+* Create snapshots of the cloud at certain time periods (daily for example) so patterns can be trended and analyzed over long periods. 
